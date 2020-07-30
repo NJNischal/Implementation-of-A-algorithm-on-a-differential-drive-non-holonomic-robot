@@ -11,3 +11,8 @@ I used Minkowski Sum method to expand the obstacles and the boundary of the give
 Considered the workspace as a 8 connected space, two different speeds for straight moves and 3 variations of left and right turns with cost to come and cost to goal being euclidean distances.
 
 I used Half-planes and semi-algebraic models to represent the obstacle space.Illustrated optimal path generation as well as node exploration animation between start and goal point using a OpenCV interface and simulated the robot in V-REP environment.
+
+### Video Link:
+```
+https://www.youtube.com/watch?v=2eqwcL6U1yg&feature=youtu.be
+```
