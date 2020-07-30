@@ -1,4 +1,7 @@
 # Implementation-of-A-Star-algorithm-on-a-differential-drive-non-holonomic-robot
+
+![](Vrep_turtlebot.gif)
+
 Python Implementation of A* algorithm on a differential drive (non-holonomic) robot:
 
 Implemented A* algorithm to find a path between start and end point on a fixed map for a TurtleBot (Radius + clearance=20cm)
